@@ -3,6 +3,8 @@
 # **Ravi Nandana H** 
 
 Here are some ideas to get you started:
+**Marketing & Branding Professional | Data Analytics Enthusiast**  
+📍 Based in Bengaluru | 📊 Passionate about turning data into impactful business insights  
 
 - 🔭 I’m currently persuing an Internship at Analogica Software Dev Pvt Ltd., Bengaluru.
 - 🌱 I’m currently learning Excel, Power BI, Exploratory Data Analysis (EDA...
